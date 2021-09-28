@@ -4,7 +4,6 @@
 - 🔭 Atualmente, estou trabalhando em um projeto pessoal, que visa um futuro lançamento para utilização em escala nacional.
 - 🌱 Estou me aprofundando em Javascript e iniciando os estudos na biblioteca React.
 
-- 😄 Pronomes: Ele/dele
 
 <div align="center">
   <a href="https://github.com/henriquedemicco">
