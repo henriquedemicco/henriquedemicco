@@ -1,7 +1,7 @@
 ### Olá, eu sou Henrique de Micco 👋
 
 
-- 🔭 Atualmente, estou trabalhando em um projeto pessoal, que visa um futuro lançamento para utilização em escala nacional.
+- 🔭 Atualmente, trabalhando em projetos pessoais. Busco por uma oportunidade de estágio / dev Jr em qualquer Stack (Front-End, Back-End ou FullStack).
 - 🌱 Estou me aprofundando em Javascript e iniciando os estudos na biblioteca React.
 
 
