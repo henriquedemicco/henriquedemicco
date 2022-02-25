@@ -1,8 +1,8 @@
 ### Olá, eu sou Henrique de Micco 👋
 
 
-- 🔭 Atualmente, trabalhando em projetos pessoais. Busco por uma oportunidade como desenvolvedor Front-End Júnior.
-- 🌱 No momento estou estudando AngularJS.
+- 🔭 Colaborador na plataforma Cliniconect | Estágio em desenvolvimento Front-End.
+- 🌱 No momento estou me aprofundando / trabalhando com  Angular 2+.
 
 
 <div align="center">
