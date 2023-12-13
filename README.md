@@ -1,8 +1,7 @@
 ### Olá, eu sou Henrique de Micco 👋
 
 
-- 🔭 Colaborador na plataforma Cliniconect | Estágio em desenvolvimento Front-End.
-- 🌱 No momento estou me aprofundando / trabalhando com  Angular 2+.
+- 🔭 Desenvolvedor Fron-end | Angular 2+
 
 
 <div align="center">
