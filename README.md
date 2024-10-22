@@ -1,7 +1,7 @@
 ### Olá, eu sou Henrique de Micco 👋
 
 
-- 🔭 Desenvolvedor Front-end | Angular 2+
+- 🔭 Desenvolvedor Front-end | Angular 18+
 
 
 <div align="center">
