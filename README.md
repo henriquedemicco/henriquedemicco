@@ -1,7 +1,7 @@
 ### Olá, eu sou Henrique de Micco 👋
 
 
-- 🔭 Desenvolvedor Front-end | Angular 18+
+- 🔭 Desenvolvedor Front-end | 🅰️ngular | TypeScript | CI/CD | Testes | Clean Code | AWS
 
 
 <div align="center">
